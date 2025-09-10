@@ -3,12 +3,15 @@
     "id": 1,
     "produto": "rivotril",
     "quantidade": 10,
-    "categoria" : medicamentos
+    "preço": 50.00,
+    "categoria": "medicamentos"
   },
   {
     "id": 2,
     "produto": "sabonete",
     "quantidade": 5,
-    "categoria": igiene
+    "preço": 10.00,
+    "categoria": "higiene"
   }
+  
 ]
