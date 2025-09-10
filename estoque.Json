@@ -14,4 +14,697 @@
     "categoria": "higiene"
   }
   
-]
+,
+{
+  "id": 3,
+  "produto": "paracetamol",
+  "quantidade": 20,
+  "preço": 15.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 4,
+  "produto": "escova de dentes",
+  "quantidade": 12,
+  "preço": 8.50,
+  "categoria": "higiene"
+},
+{
+  "id": 5,
+  "produto": "álcool em gel",
+  "quantidade": 30,
+  "preço": 12.00,
+  "categoria": "higiene"
+},
+{
+  "id": 6,
+  "produto": "dipirona",
+  "quantidade": 25,
+  "preço": 13.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 7,
+  "produto": "shampoo",
+  "quantidade": 18,
+  "preço": 22.00,
+  "categoria": "higiene"
+},
+{
+  "id": 8,
+  "produto": "ibuprofeno",
+  "quantidade": 15,
+  "preço": 18.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 9,
+  "produto": "condicionador",
+  "quantidade": 14,
+  "preço": 24.00,
+  "categoria": "higiene"
+},
+{
+  "id": 10,
+  "produto": "vitamina C",
+  "quantidade": 22,
+  "preço": 20.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 11,
+  "produto": "desodorante",
+  "quantidade": 16,
+  "preço": 16.00,
+  "categoria": "higiene"
+},
+{
+  "id": 12,
+  "produto": "antisséptico bucal",
+  "quantidade": 10,
+  "preço": 14.00,
+  "categoria": "higiene"
+},
+{
+  "id": 13,
+  "produto": "band-aid",
+  "quantidade": 40,
+  "preço": 7.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 14,
+  "produto": "termômetro",
+  "quantidade": 8,
+  "preço": 35.00,
+  "categoria": "equipamentos"
+},
+{
+  "id": 15,
+  "produto": "luvas descartáveis",
+  "quantidade": 50,
+  "preço": 25.00,
+  "categoria": "higiene"
+},
+{
+  "id": 16,
+  "produto": "máscara cirúrgica",
+  "quantidade": 60,
+  "preço": 30.00,
+  "categoria": "higiene"
+},
+{
+  "id": 17,
+  "produto": "gaze",
+  "quantidade": 35,
+  "preço": 6.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 18,
+  "produto": "esparadrapo",
+  "quantidade": 28,
+  "preço": 5.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 19,
+  "produto": "soro fisiológico",
+  "quantidade": 20,
+  "preço": 9.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 20,
+  "produto": "creme dental",
+  "quantidade": 25,
+  "preço": 7.50,
+  "categoria": "higiene"
+},
+{
+  "id": 21,
+  "produto": "antialérgico",
+  "quantidade": 13,
+  "preço": 19.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 22,
+  "produto": "repelente",
+  "quantidade": 17,
+  "preço": 21.00,
+  "categoria": "higiene"
+},
+{
+  "id": 23,
+  "produto": "pomada cicatrizante",
+  "quantidade": 11,
+  "preço": 18.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 24,
+  "produto": "algodão",
+  "quantidade": 32,
+  "preço": 4.00,
+  "categoria": "higiene"
+},
+{
+  "id": 25,
+  "produto": "lenço umedecido",
+  "quantidade": 27,
+  "preço": 10.00,
+  "categoria": "higiene"
+},
+{
+  "id": 26,
+  "produto": "antisséptico",
+  "quantidade": 19,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 27,
+  "produto": "vitamina D",
+  "quantidade": 14,
+  "preço": 23.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 28,
+  "produto": "protetor solar",
+  "quantidade": 21,
+  "preço": 35.00,
+  "categoria": "higiene"
+},
+{
+  "id": 29,
+  "produto": "colírio",
+  "quantidade": 9,
+  "preço": 17.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 30,
+  "produto": "spray nasal",
+  "quantidade": 12,
+  "preço": 16.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 31,
+  "produto": "sabonete líquido",
+  "quantidade": 18,
+  "preço": 11.00,
+  "categoria": "higiene"
+},
+{
+  "id": 32,
+  "produto": "creme hidratante",
+  "quantidade": 15,
+  "preço": 20.00,
+  "categoria": "higiene"
+},
+{
+  "id": 33,
+  "produto": "antisséptico para mãos",
+  "quantidade": 22,
+  "preço": 13.50,
+  "categoria": "higiene"
+},
+{
+  "id": 34,
+  "produto": "analgésico",
+  "quantidade": 24,
+  "preço": 14.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 35,
+  "produto": "anti-inflamatório",
+  "quantidade": 16,
+  "preço": 21.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 36,
+  "produto": "xampu anticaspa",
+  "quantidade": 13,
+  "preço": 26.00,
+  "categoria": "higiene"
+},
+{
+  "id": 37,
+  "produto": "creme para pentear",
+  "quantidade": 11,
+  "preço": 18.00,
+  "categoria": "higiene"
+},
+{
+  "id": 38,
+  "produto": "vitamina B12",
+  "quantidade": 10,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 39,
+  "produto": "antigripal",
+  "quantidade": 20,
+  "preço": 17.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 40,
+  "produto": "pomada para dor",
+  "quantidade": 14,
+  "preço": 19.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 41,
+  "produto": "cotonete",
+  "quantidade": 30,
+  "preço": 5.00,
+  "categoria": "higiene"
+},
+{
+  "id": 42,
+  "produto": "sabonete íntimo",
+  "quantidade": 12,
+  "preço": 15.00,
+  "categoria": "higiene"
+},
+{
+  "id": 43,
+  "produto": "antisséptico bucal infantil",
+  "quantidade": 8,
+  "preço": 12.00,
+  "categoria": "higiene"
+},
+{
+  "id": 44,
+  "produto": "spray cicatrizante",
+  "quantidade": 9,
+  "preço": 22.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 45,
+  "produto": "pomada para assaduras",
+  "quantidade": 13,
+  "preço": 16.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 46,
+  "produto": "vitamina E",
+  "quantidade": 11,
+  "preço": 27.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 47,
+  "produto": "antisséptico spray",
+  "quantidade": 17,
+  "preço": 14.00,
+  "categoria": "higiene"
+},
+{
+  "id": 48,
+  "produto": "protetor labial",
+  "quantidade": 19,
+  "preço": 10.00,
+  "categoria": "higiene"
+},
+{
+  "id": 49,
+  "produto": "creme para mãos",
+  "quantidade": 15,
+  "preço": 18.00,
+  "categoria": "higiene"
+},
+{
+  "id": 50,
+  "produto": "antisséptico gel",
+  "quantidade": 20,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 51,
+  "produto": "vitamina A",
+  "quantidade": 10,
+  "preço": 25.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 52,
+  "produto": "antisséptico líquido",
+  "quantidade": 18,
+  "preço": 12.00,
+  "categoria": "higiene"
+},
+{
+  "id": 53,
+  "produto": "pomada antibiótica",
+  "quantidade": 9,
+  "preço": 23.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 54,
+  "produto": "antisséptico para feridas",
+  "quantidade": 14,
+  "preço": 15.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 55,
+  "produto": "vitamina K",
+  "quantidade": 8,
+  "preço": 29.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 56,
+  "produto": "antisséptico infantil",
+  "quantidade": 13,
+  "preço": 11.00,
+  "categoria": "higiene"
+},
+{
+  "id": 57,
+  "produto": "pomada para queimaduras",
+  "quantidade": 7,
+  "preço": 24.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 58,
+  "produto": "vitamina B6",
+  "quantidade": 12,
+  "preço": 26.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 59,
+  "produto": "antisséptico para superfícies",
+  "quantidade": 16,
+  "preço": 17.00,
+  "categoria": "higiene"
+},
+{
+  "id": 60,
+  "produto": "pomada para hematomas",
+  "quantidade": 11,
+  "preço": 21.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 61,
+  "produto": "vitamina B3",
+  "quantidade": 10,
+  "preço": 27.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 62,
+  "produto": "antisséptico para pele",
+  "quantidade": 14,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 63,
+  "produto": "pomada para picadas",
+  "quantidade": 8,
+  "preço": 20.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 64,
+  "produto": "vitamina B2",
+  "quantidade": 9,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 65,
+  "produto": "antisséptico para objetos",
+  "quantidade": 13,
+  "preço": 15.00,
+  "categoria": "higiene"
+},
+{
+  "id": 66,
+  "produto": "pomada para alergia",
+  "quantidade": 7,
+  "preço": 22.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 67,
+  "produto": "vitamina B1",
+  "quantidade": 11,
+  "preço": 26.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 68,
+  "produto": "antisséptico para boca",
+  "quantidade": 12,
+  "preço": 14.00,
+  "categoria": "higiene"
+},
+{
+  "id": 69,
+  "produto": "pomada para rachaduras",
+  "quantidade": 8,
+  "preço": 19.00,
+  "categoria": "higiene"
+},
+{
+  "id": 70,
+  "produto": "vitamina B5",
+  "quantidade": 10,
+  "preço": 29.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 71,
+  "produto": "antisséptico para nariz",
+  "quantidade": 9,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 72,
+  "produto": "pomada para inflamação",
+  "quantidade": 7,
+  "preço": 23.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 73,
+  "produto": "vitamina B9",
+  "quantidade": 8,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 74,
+  "produto": "antisséptico para olhos",
+  "quantidade": 11,
+  "preço": 15.00,
+  "categoria": "higiene"
+},
+{
+  "id": 75,
+  "produto": "pomada para coceira",
+  "quantidade": 6,
+  "preço": 21.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 76,
+  "produto": "vitamina B7",
+  "quantidade": 10,
+  "preço": 27.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 77,
+  "produto": "antisséptico para feridas infantis",
+  "quantidade": 8,
+  "preço": 12.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 78,
+  "produto": "pomada para cortes",
+  "quantidade": 7,
+  "preço": 20.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 79,
+  "produto": "vitamina B8",
+  "quantidade": 9,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 80,
+  "produto": "antisséptico para mãos infantil",
+  "quantidade": 10,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 81,
+  "produto": "pomada para dor muscular",
+  "quantidade": 6,
+  "preço": 22.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 82,
+  "produto": "vitamina B10",
+  "quantidade": 8,
+  "preço": 29.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 83,
+  "produto": "antisséptico para pés",
+  "quantidade": 9,
+  "preço": 14.00,
+  "categoria": "higiene"
+},
+{
+  "id": 84,
+  "produto": "pomada para dor de cabeça",
+  "quantidade": 7,
+  "preço": 23.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 85,
+  "produto": "vitamina B11",
+  "quantidade": 10,
+  "preço": 27.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 86,
+  "produto": "antisséptico para axilas",
+  "quantidade": 8,
+  "preço": 15.00,
+  "categoria": "higiene"
+},
+{
+  "id": 87,
+  "produto": "pomada para dor nas costas",
+  "quantidade": 6,
+  "preço": 24.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 88,
+  "produto": "vitamina B13",
+  "quantidade": 9,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 89,
+  "produto": "antisséptico para unhas",
+  "quantidade": 10,
+  "preço": 13.00,
+  "categoria": "higiene"
+},
+{
+  "id": 90,
+  "produto": "pomada para dor de dente",
+  "quantidade": 7,
+  "preço": 22.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 91,
+  "produto": "vitamina B15",
+  "quantidade": 8,
+  "preço": 29.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 92,
+  "produto": "antisséptico para boca infantil",
+  "quantidade": 9,
+  "preço": 14.00,
+  "categoria": "higiene"
+},
+{
+  "id": 93,
+  "produto": "pomada para dor de ouvido",
+  "quantidade": 6,
+  "preço": 23.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 94,
+  "produto": "vitamina B17",
+  "quantidade": 10,
+  "preço": 27.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 95,
+  "produto": "antisséptico para feridas profundas",
+  "quantidade": 8,
+  "preço": 15.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 96,
+  "produto": "pomada para dor de garganta",
+  "quantidade": 7,
+  "preço": 24.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 97,
+  "produto": "vitamina B19",
+  "quantidade": 9,
+  "preço": 28.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 98,
+  "produto": "antisséptico para feridas leves",
+  "quantidade": 10,
+  "preço": 13.00,
+  "categoria": "primeiros socorros"
+},
+{
+  "id": 99,
+  "produto": "pomada para dor de estômago",
+  "quantidade": 6,
+  "preço": 22.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 100,
+  "produto": "vitamina B20",
+  "quantidade": 8,
+  "preço": 29.00,
+  "categoria": "medicamentos"
+},
+{
+  "id": 101,
+  "produto": "antisséptico para feridas cirúrgicas",
+  "quantidade": 9,
+  "preço": 14.00,
+  "categoria": "primeiros socorros"
+}]
